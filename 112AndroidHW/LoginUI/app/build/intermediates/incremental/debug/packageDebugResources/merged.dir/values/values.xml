@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="account_hint">輸入帳號</string>
+    <string name="app_name">Login123</string>
+    <string name="login">登入</string>
+    <string name="password_hint">輸入密碼</string>
+    <string name="result_show">登入結果</string>
+    <string name="tittle">登入系統</string>
+    <style name="Base.Theme.Login123" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Login123" parent="Base.Theme.Login123"/>
+</resources>
